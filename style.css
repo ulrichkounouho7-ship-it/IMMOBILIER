@@ -42,30 +42,30 @@ nav a {
     cursor: pointer;
 }
 
-/* HERO */
-.hero {
+/* part*/
+.part {
     height: 90vh;
     background: linear-gradient(
         rgba(0, 40, 80, 0.6),
         rgba(0, 40, 80, 0.6)
     ),
-    url('https://images.unsplash.com/photo-1600585152220-90363fe7e115') no-repeat center center/cover;
+    url('images/maisonbleu.jpg.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     padding: 0 80px;
     color: white;
 }
 
-.hero-content {
+.part-content {
     max-width: 600px;
 }
 
-.hero h1 {
+.part h1 {
     font-size: 48px;
     margin-bottom: 20px;
 }
 
-.hero p {
+.part p {
     font-size: 16px;
     margin-bottom: 30px;
 }
